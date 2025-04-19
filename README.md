@@ -1,8 +1,10 @@
 # ⏱️ Ignite Timer
 
-Aplicação de timer estilo Pomodoro desenvolvida com React e TypeScript. Possui funcionalidades de contagem regressiva, criação e histórico de ciclos, persistência no localStorage e gerenciamento global de estado com Context API.
+- Aplicação de timer estilo Pomodoro desenvolvida com React e TypeScript. Possui funcionalidades de contagem regressiva, criação e histórico de ciclos, persistência no localStorage e gerenciamento global de estado com Context API.
 
----
+# 🎞️ Vídeo da aplicação
+
+https://github.com/user-attachments/assets/d3bfe5c6-4890-4263-8097-4a8a170c1fc3
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -79,7 +81,7 @@ src/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/matheusjsgama/
+git clone https://github.com/MatheusJSGama/Timer.git
 ```
 
 2. Instale as dependências:
