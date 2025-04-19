@@ -82,7 +82,7 @@ export function CyclesContextProvider({ children }: CyclesContextProviderProps) 
   function InterruptCurrentCycle() {
     dispatch(interruptCurrentCycleAction())
   }
-  localStorage.clear()
+
   return (
     <CyclesContext.Provider value={{
       cycles,
